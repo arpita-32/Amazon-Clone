@@ -1,4 +1,4 @@
-# Amazon-Clone
+# Amazon Clone
 This project is an Amazon clone built using HTML and CSS. It replicates the layout and design of the Amazon homepage and some of its key features. This project is intended for educational purposes to practice and demonstrate web design skills using HTML and CSS.
 
 ## Project Overview
